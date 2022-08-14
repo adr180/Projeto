@@ -8,11 +8,12 @@
         Console.Write("teste");
         int a = 5;
         double b = 5.5;
-        
+        double res = a*5;
 
-        int a = Console.Read();
+
+       // int a = Console.Read();
         
-        int b = int.Parse(Console.ReadLine());
+      //  int b = int.Parse(Console.ReadLine());
         // comentario movido
 
     }
