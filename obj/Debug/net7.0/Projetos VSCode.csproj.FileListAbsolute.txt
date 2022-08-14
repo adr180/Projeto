@@ -1,0 +1,15 @@
+C:\Users\Adriano\Documents\Projetos VSCode\bin\Debug\net7.0\Projetos VSCode.exe
+C:\Users\Adriano\Documents\Projetos VSCode\bin\Debug\net7.0\Projetos VSCode.deps.json
+C:\Users\Adriano\Documents\Projetos VSCode\bin\Debug\net7.0\Projetos VSCode.runtimeconfig.json
+C:\Users\Adriano\Documents\Projetos VSCode\bin\Debug\net7.0\Projetos VSCode.dll
+C:\Users\Adriano\Documents\Projetos VSCode\bin\Debug\net7.0\Projetos VSCode.pdb
+C:\Users\Adriano\Documents\Projetos VSCode\obj\Debug\net7.0\Projetos VSCode.csproj.AssemblyReference.cache
+C:\Users\Adriano\Documents\Projetos VSCode\obj\Debug\net7.0\Projetos VSCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriano\Documents\Projetos VSCode\obj\Debug\net7.0\Projetos VSCode.AssemblyInfoInputs.cache
+C:\Users\Adriano\Documents\Projetos VSCode\obj\Debug\net7.0\Projetos VSCode.AssemblyInfo.cs
+C:\Users\Adriano\Documents\Projetos VSCode\obj\Debug\net7.0\Projetos VSCode.csproj.CoreCompileInputs.cache
+C:\Users\Adriano\Documents\Projetos VSCode\obj\Debug\net7.0\Projetos VSCode.dll
+C:\Users\Adriano\Documents\Projetos VSCode\obj\Debug\net7.0\refint\Projetos VSCode.dll
+C:\Users\Adriano\Documents\Projetos VSCode\obj\Debug\net7.0\Projetos VSCode.pdb
+C:\Users\Adriano\Documents\Projetos VSCode\obj\Debug\net7.0\Projetos VSCode.genruntimeconfig.cache
+C:\Users\Adriano\Documents\Projetos VSCode\obj\Debug\net7.0\ref\Projetos VSCode.dll
